@@ -22,7 +22,7 @@
 * Building , support Roman 2 build in same time.
 * Adventures , send hero to adventures if not low heal.
 * riding , support Farm list 
-* logout , every spsaice 
+* logout , Not static time with login 
 * Sleep , it's make bot sleep with logout a user in range time . 
 
 
