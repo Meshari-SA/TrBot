@@ -21,8 +21,8 @@
 ## Features
 * Building , support Roman 2 build in same time.
 * Adventures , send hero to adventures if not low heal.
-* riding , support Farm list 
-* logout , Not static time with login 
+* Riding , support Farm list 
+* Logout & Login , Not static time  
 * Sleep , it's make bot sleep with logout a user in range time . 
 
 
