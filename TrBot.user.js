@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TrBot
-// @namespace    http://tampermonkey.net/
+// @namespace    https://discord.com/users/292462820191109122
 // @version      1.1
 // @description
 // @author       Mashari Discord: https://discord.com/users/292462820191109122
