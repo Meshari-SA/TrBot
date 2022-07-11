@@ -13,9 +13,9 @@
 // @match        https://beta.travian.com/*
 // @match        https://finals.travian.com/*
 // @icon         https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.png
-// @grant        GM_xmlhttpRequest
 // @downloadURL  https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.js
 // @updateURL    https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.js
+// @grant        GM_xmlhttpRequest
 // @run-at       document-end
 // @require      https://unpkg.com/sweetalert/dist/sweetalert.min.js
 // ==/UserScript==
