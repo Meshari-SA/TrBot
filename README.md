@@ -31,7 +31,7 @@
 ## Setup
 To run TrBot, install :  
 * [Tampermonkey](https://www.tampermonkey.net/) 
-* [TrBot](https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBotFreeV1.1.user.js) 
+* [TrBot](https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.js) 
 * Enjoy!   :) 
 
 
