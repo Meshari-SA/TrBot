@@ -13,8 +13,8 @@
 // @match        https://beta.travian.com/*
 // @match        https://finals.travian.com/*
 // @icon         https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.png
-// @downloadURL  https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.js
-// @updateURL    https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.js
+// @downloadURL  https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.user.js
+// @updateURL    https://raw.githubusercontent.com/Mashari-KSA/TrBot/main/TrBot.user.js
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
 // @require      https://unpkg.com/sweetalert/dist/sweetalert.min.js
