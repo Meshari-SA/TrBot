@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TrBot
 // @namespace    https://discord.com/users/292462820191109122
-// @version      1.6
+// @version      1.65
 // @description
 // @author       Mashari Discord: https://discord.com/users/292462820191109122
 // @match        https://*.international.travian.com/*
