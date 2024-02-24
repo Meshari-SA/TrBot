@@ -36,6 +36,3 @@ To run TrBot, install :
 
 
 
-## Support
-
-  * [Discord](https://discord.com/users/292462820191109122) 
