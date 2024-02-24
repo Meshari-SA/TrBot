@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Features](#features)
 * [Setup](#setup)
-* [Support](#Support)
 
 
 
